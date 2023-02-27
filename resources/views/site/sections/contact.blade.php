@@ -13,7 +13,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>Fergana, Quva</p>
+            <p>Uzbekistan, Fergana</p>
           </div>
         </div>
 
@@ -35,14 +35,14 @@
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-envelope"></i>
-            <h3>Email Me</h3>
-            <p>alimuhamaduzb@gmail.com</p>
+            <h3>Email </h3>
+            <p>turgunaliyev.98@gmail.com</p>
           </div>
         </div>
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
-            <h3>Call Me</h3>
+            <h3>Phone</h3>
             <p>+998 90 782 33 96</p>
           </div>
         </div>

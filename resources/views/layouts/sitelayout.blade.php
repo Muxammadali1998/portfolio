@@ -40,8 +40,8 @@
   <!-- ======= Header ======= -->
   <header id="header">
     <div class="container">
-      <h2>Hello.   I'm</h2>
-      <h1><a href="#"><svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+     
+      <h1><a href="/"><svg version="1.0" xmlns="http://www.w3.org/2000/svg"
         width="55px" height="55px" viewBox="0 0 900.000000 900.000000"
         preserveAspectRatio="xMidYMid meet">
     
@@ -105,7 +105,7 @@
         450 6 25 13 60 16 78 4 18 11 35 15 38 5 3 9 14 9 25 0 10 4 27 9 37 5 9 24
         50 42 91 19 41 49 99 67 129 17 30 32 56 32 57 0 12 -32 10 -58 -2z"/>
         </g>
-    </svg>uxammadali Turg'unaliyev</a></h1>
+    </svg>ukhammadali Turgunaliev</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="/assets/img/logo.png" alt="" class="img-fluid"></a> -->
       <h2><span>WEB Developer</span>   from Fergana</h2>
@@ -115,7 +115,7 @@
           <li><a class="nav-link active" href="#header">Home</a></li>
           <li><a class="nav-link" href="#about">About</a></li>
           <li><a class="nav-link" href="#resume">Resume</a></li>
-          <li><a class="nav-link" href="#services">Services</a></li>
+          <!--<li><a class="nav-link" href="#services">Services</a></li>-->
           <li><a class="nav-link" href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link" href="#contact">Contact</a></li>
         </ul>
@@ -125,7 +125,7 @@
       <div class="social-links">
         <a href="https://wa.me/qr/5UTOWUK3P7HI1" class="whatsapp"><i class="bi bi-whatsapp"></i></a>
         <a href="https://www.facebook.com/muhammadali.turgunaliyev.9" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://instagram.com/muhammadali_9_8?igshid=ZDdkNTZiNTM=" class="instagram"><i class="bi bi-instagram"></i></a>
         <!-- <a href="#" class="google-plus"><i class="bi bi-skype"></i></a> -->
         <a href="https://t.me/Ali98_uz" class="telegram"><i class="bi bi-telegram"></i></a>
         <a href="tel:+998907823396" class="google-plus"><i class="bi bi-telephone"></i></a>

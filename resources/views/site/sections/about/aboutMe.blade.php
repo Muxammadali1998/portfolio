@@ -3,41 +3,46 @@
 
     <div class="section-title">
       <h2>About</h2>
-      <p>Learn more about me</p>
+      <p>About me</p>
     </div>
 
     <div class="row">
       <div class="col-lg-4" data-aos="fade-right">
-        <img src="assets/img/me.jpg" class="img-fluid" alt="">
+        <img src="assets/img/last.png" class="img-fluid" alt="">
       </div>
       <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-        <h3>UI/UX &amp; Graphic Designer</h3>
+        <h3>Web developer</h3>
         <p class="fst-italic">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
+            Web developer from Ferghana, Uzbekistan   
         </p>
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>16 Feb 1998</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.MyPortfolio.com</span></li>
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>16 Feb 1998</span></li>-->
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.MyPortfolio.com</span></li>-->
               <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+998 90 782 33 96</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Fergana</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>24</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Junyor</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>alimuhamaduzb@gmail.com</span></li>
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>24</span></li>-->
+              <!--<li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Junyor</span></li>-->
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>turgunaliyev.98@gmail.com</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
         </div>
         <p>
-          Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-          Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+            With more than 1 year  experience of Laravel as a professional web developer, I have acquired the skills and knowledge necessary for the success of your project.
+            Furthermore, I have experience as a Laravel. While I work for the company, I learned 
+            how to work with a team through the Agile system and Git. Besides that , My math knowledge 
+            assists to be more algorithmic.
         </p>
+            <div style="display:flex; justify-content:center;  pading: 15px; margin-top:20px; border-radius: 10px">
+                <a href="Muxammadali_CV.pdf"target="_blank" style="display:inline-block;" ><button style="background-color: #343a40; padding: 10px; margin-top:40px; border-radius: 10px; color:white;"><img src="/assets/img/download.png" alt=""> Save Resume <span class="colors"></span></button></a>
+            </div>
+
       </div>
     </div>
 

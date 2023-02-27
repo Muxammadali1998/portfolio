@@ -4,31 +4,35 @@
 
       <div class="section-title">
         <h2>Resume</h2>
-        <p>Check My Resume</p>
+        <p>My Resume</p>
       </div>
 
       <div class="row">
         <div class="col-lg-6">
           <h3 class="resume-title">Sumary</h3>
-          <div class="resume-item pb-0">
-            <h4>Muhammadali Turg'unaliyev</h4>
-            <p><em> Web dasturchi 4+ oy tajribali, Front End maketlarni qayta ishlash, Back End qismini to'liq yaratish va serverga joylash bo'yicha ajribali Junyor dasturchi .</em></p>
+          <div class="resume-item ">
+            <h4>Mukhammadali Turgunaliyev</h4>
+            <p><em> With more than 1 year experience of Laravel as a professional web developer, I have acquired the skills and knowledge necessary for the success of your project. Furthermore, I have experience as a Laravel. While I work for the company, I learned how to work with a team through the Agile system and Git. Besides that , My math knowledge assists to be more algorithmic.</em></p>
             <p>
             <ul>
-              <li>Portland par 127,Orlando, FL</li>
+              <li>Uzbekistan, Fergana</li>
               <li>+998 90 782 33 96</li>
-              <li>alimuhamaduzb@gmail.com</li>
+              <li>turgunaliyev.98@gmail.com</li>
             </ul>
             </p>
-          </div>
-
-          <h3 class="resume-title">Education</h3>
+          </div> <!--<h3 class="resume-title">Education</h3>-->
           <div class="resume-item">
-            <h4>Computer engineering</h4>
-            <h5>2022 - ....</h5>
-            <p><em>Toshkent Axborot Texnalogialar Unversiteti, Fag'ona filiali</em></p>
-            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-          </div>
+            <h4>Skils</h4>
+            <ul>
+              <li>PHP</li>
+              <li>Laravel</li>
+              <li>Livewire</li>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>GIT</li>
+              <li>OOP</li>
+            </ul>
+         </div>
           <!-- <div class="resume-item">
             <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
             <h5>2010 - 2014</h5>
@@ -39,28 +43,26 @@
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
-            <h4>Junyor Web Dasturchi</h4>
-            <h5>2021 - yildan buyon</h5>
-            <p><em>Andijon Raqamli shaxar IT markazi</em></p>
+            <h4>Web Developer</h4>
+            <h5>From 2022</h5>
+            <p><em>at Digital City</em></p>
             <p>
-            <ul>
-              <li>miuzbekistan.com (*ishtirokchi)</li>
-              <li>agromedia.uz (*ishtirokchi) </li>
-              <li>yuksakobod.uz</li>
-              <li>fardunyobarka.uz</li>
-            </ul>
+              <ul>
+                <li><a target="_blank" href="https://miuzbekistan.com">miuzbekistan.com</a></li>
+                <li><a href='https://agromedia.uz'>  agromedia.uz  </a>  </li>
+                <li> <a href='https://yuksakobod.uz'>yuksakobod.uz</a></li>
+                <li><a target="_blank"  href="https://a-umar.uz">A-umar.uz</a></li>
+                <li><a target="_blank"  href="http://demo.digital-city.uz/">Digital City</a></li>
+              </ul>
             </p>
           </div>
           <div class="resume-item">
             <h4>Languages</h4>
-            <h5>2017 - 2021</h5>
-            <p><em> Rossiada Turk, Azeir, Hind, Mongol va boshqa ko'plab millatlar bilan ish tajribasi mavjud</em></p>
-            <p>
             <ul>
-              <li>O'ZBEK. Ona tili</li>
-              <li>TOJIK. Professional muloqot qilish darajasi</li>
-              <li>RUS. Erkin muloqot qilish darajasi</li>
-              <li>ENGLISH. Cheklangan muloqotdarajasi</li>
+              <li>Uzbek Native</li>
+              <li>RUSIAN B2</li>
+              <li>ENGLISH B1</li>
+              <li>TOJIK Fluent</li>
             </ul>
             </p>
           </div>

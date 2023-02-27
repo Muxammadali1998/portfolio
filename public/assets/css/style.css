@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/fon_portfolio.jpg") top right no-repeat;
+  background: #040404 url("../img/fon.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   z-index: 997;
-  overflow-y: auto;
+  /*overflow-y: auto;*/
 }
 #header * {
   transition: ease-in-out 0.3s;
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   background: rgba(0, 0, 0, 0.9);
   transition: 0.3s;
-  z-index: 999;
+  z-index: 999999;/*3ta 9*/
   margin-top: 0;
 }
 .navbar-mobile .mobile-nav-toggle {
@@ -270,6 +270,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: auto;
   transition: 0.3s;
   border: 2px solid rgba(255, 255, 255, 0.2);
+  z-index:100;
 }
 .navbar-mobile li {
   padding: 12px 20px;
